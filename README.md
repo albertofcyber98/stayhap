@@ -6,3 +6,6 @@ An application to find a place to stay while on vacation
   
 # Information Architecture
   https://whimsical.com/website-stayhap-KkPGWGtSSPrdCvS2TmvHyH
+  
+#Main Flow
+  https://whimsical.com/main-flow-stayhap-6f31chniNP5JB9BMQwxeSo
