@@ -7,5 +7,8 @@ An application to find a place to stay while on vacation
 # Information Architecture
   https://whimsical.com/website-stayhap-KkPGWGtSSPrdCvS2TmvHyH
   
-#Main Flow
+# Main Flow
   https://whimsical.com/main-flow-stayhap-6f31chniNP5JB9BMQwxeSo
+
+# Figma
+  https://www.figma.com/file/8N4ns0rnQIAyM7YfRlwmZn/Stayhap?node-id=0%3A1
