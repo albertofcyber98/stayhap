@@ -51,3 +51,46 @@
 // Utilities
 @import "utilities/api";
 // scss-docs-end import-stack
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Ubuntu:wght@400;500;700&display=swap');
+
+body{
+    color: #01261F;
+    font-family: 'Roboto';
+}
+
+.colorPrimary{
+    color: #05C39C;
+}
+.colorSecondary{
+    color: #01261F;
+}
+header{
+    border-bottom: 1px solid #C4C4C4;
+    width: 100%;
+    position: relative;
+    .navbar{
+        height: 80px;
+        ul.navbar-nav{
+            li.nav-item{
+                &.active{
+                    a.nav-link{
+                        color: #05C39C;
+                    }
+                }
+                a{
+                    &.nav-link{
+                        color: #01261F;
+                        letter-spacing: 1px;
+                        padding-left: 1rem;
+                        padding-right: 1rem;
+                        font-weight: 400;
+                        &:hover{
+                            text-decoration: underline;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
